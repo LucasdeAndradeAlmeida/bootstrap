@@ -1,6 +1,7 @@
-Site para um projeto da faculdade baseado totalmente em boostrap 5
+Site para um projeto da faculdade baseado totalmente em boostrap 5<br>
 Para acessar o site por esse endereço: https://lucasdeandradealmeida.github.io/bootstrap/
-<hr>
+<br>
+<br>
 Descrição:
 O site da Garage Glow é o seu destino único para uma experiência automotiva de qualidade superior. Oferecemos uma gama completa de serviços de mecânica automotiva e estética, realizados por uma equipe experiente e dedicada. Desde reparos mecânicos até detalhamento meticuloso, cada aspecto do seu veículo receberá o tratamento excepcional que merece.
 
